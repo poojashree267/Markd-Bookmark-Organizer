@@ -1,7 +1,8 @@
 # Markd-Bookmark-Organizer
 A minimal and user-friendly bookmark organizer that allows users to manage links efficiently with tags, collections, search, and pinning features.
 
-Features
+Features:
+
  Add, edit, and delete bookmarks
  Tag-based organization for flexible categorization
  Collections to group related bookmarks
@@ -12,27 +13,30 @@ Features
  Local storage support (data persists in browser)
  Import & Export bookmarks (JSON format)
 
-Purpose
+Purpose:
 
 The main goal of this project is to improve productivity by allowing users to manage their saved links in a structured and searchable way, reducing time spent searching for previously visited resources.
 
-Tech Stack
+Tech Stack:
+
 HTML
 CSS
 JavaScript (Vanilla JS)
 Local Storage API
 
-How to Use
+How to Use:
+
 Clone the repository
 Open bookmarks.html in your browser
 Start adding and organizing your bookmarks
 
-Future Enhancements
+Future Enhancements:
+
 User authentication & cloud sync
 Dark mode
 Browser extension integration
 Shareable bookmark collections
 
-License
+License:
 
 This project is open-source and available under the MIT License.
